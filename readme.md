@@ -2,7 +2,7 @@
 
 1. chipDirectory
 2. bussinesTails
-3. coffeeScript
+3. perl6
 
 ----------
 
@@ -35,7 +35,7 @@ matrix) to produce an equivalent system.
 
 [!chipDirectory]("https://dlang.org/library/std/file/mkdir.html")
 [!bussinesTails]("https://dlang.org/orgs-using-d.html")
-[!coffeeScript]("https://coffeescript.org/")
+[!raku]("https://raku.org/")
 
 manipulation
 ```dlang
