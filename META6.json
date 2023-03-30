@@ -1,0 +1,19 @@
+{
+  "name": "dlang-kit",
+  "description": "Write me!",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Write me!"
+  ],
+  "auth": "Write me!",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "dlang-kit": "lib/dlang-kit.rakumod"
+  },
+  "resources": [],
+  "license": "Write me!",
+  "source-url": "Write me!"
+}

@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copyright ÃÂ® 2023, D5n9sMatrix",
+	"description": "editor server dlang kit with perl6",
+	"license": "MIT",
+	"name": "dlangkit"
+}
