@@ -1,11 +1,14 @@
-# welcome dlang $$ kit $$
+# welcome Dlang $$ kit $$
 
-1. chipDirectory
-2. bussinesTails
+1. Chip Directory
+2. Business Tails
 3. perl6
+4. upload coward next 
 
+Editor server Dlang kit with Perl6
 ----------
-
+![coward next](./img/upload.png)
+----------
 $ software please $
 
 - graphic
