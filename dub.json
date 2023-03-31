@@ -2,7 +2,10 @@
 	"authors": [
 		"D5n9sMatrix"
 	],
-	"copyright": "Copyright �® 2023, D5n9sMatrix",
+	"copyright": "Copyright �® 2023, D5n9sMatrix",
+	"dependencies": {
+		"ldap": "~>0.4.0"
+	},
 	"description": "editor server dlang kit with perl6",
 	"license": "MIT",
 	"name": "dlangkit"
