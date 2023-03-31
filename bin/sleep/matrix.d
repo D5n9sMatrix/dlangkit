@@ -14,7 +14,7 @@ same solutions. This proves Theorem 1.1.1.
 */
 class proof {
 
-        void die(int x, y)(ref str)
+        void die(int x, y, z)(ref str)
         {
             str readLink(R)(R link)
             if (str!R || link!R);
@@ -23,7 +23,7 @@ class proof {
 
         }
 
-        void live(int x, y)(ref str)
+        void live(int x, y, z)(ref str)
         {
             str readLink(R)(R link)
             if (str!R || link!R);
@@ -32,7 +32,7 @@ class proof {
 
         }
 
-        void life(int x, y)(ref str)
+        void life(int x, y, z)(ref str)
         {
             str readLink(R)(R link)
             if (str!R || link!R);
