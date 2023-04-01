@@ -4,9 +4,7 @@
 	],
 	"copyright": "Copyright �® 2023, D5n9sMatrix",
 	"dependencies": {
-		"handy-httpd": "~>6.0.0",
-		"ldap": "~>0.4.0",
-		"vibe-core": "~>2.2.0"
+		"dlangide": "~>0.8.17"
 	},
 	"description": "editor server dlang kit with perl6",
 	"license": "MIT",
