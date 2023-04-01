@@ -11,7 +11,8 @@
   "build-depends": [],
   "test-depends": [],
   "provides": {
-    "dlang-kit": "lib/dlang-kit.rakumod"
+    "dlang-kit": "lib/dlang-kit.rakumod",
+    "dlangkit": "lib/dlangkit.rakumod"
   },
   "resources": [],
   "license": "Write me!",
