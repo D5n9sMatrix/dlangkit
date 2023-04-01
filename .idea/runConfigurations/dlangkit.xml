@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="dlangkit" type="PERL6_RUN_CONFIGURATION" factoryName="Raku" editBeforeRun="true" singleton="false">
+  <configuration default="false" name="dlangkit" type="PERL6_CRO_RUN_CONFIGURATION" factoryName="Cro Service" singleton="false">
     <SCRIPT_PATH>$PROJECT_DIR$/bin/dlangkit</SCRIPT_PATH>
     <SCRIPT_ARGS />
     <WORKING_DIRECTORY>$PROJECT_DIR$</WORKING_DIRECTORY>
@@ -9,6 +9,7 @@
     <DEBUG_PORT>9999</DEBUG_PORT>
     <START_SUSPENDED>false</START_SUSPENDED>
     <LOG_TIMELINE_EVENTS>file</LOG_TIMELINE_EVENTS>
+    <CRO_DEV_MODE>true</CRO_DEV_MODE>
     <method v="2">
       <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_dlangkit" />
     </method>

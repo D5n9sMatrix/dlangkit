@@ -1,0 +1,20 @@
+{
+    "EditorActions.Copy": "Ctrl+C",
+    "EditorActions.Paste": "Ctrl+V",
+    "EditorActions.Cut": "Ctrl+X",
+    "EditorActions.Undo": "Ctrl+Z",
+    "EditorActions.Redo": [
+        "Ctrl+Y",
+        "Ctrl+Shift+Z"
+    ],
+    "EditorActions.Indent": [
+        "Tab",
+        "Ctrl+]"
+    ],
+    "EditorActions.Unindent": [
+        "Shift+Tab",
+        "Ctrl+["
+    ],
+    "EditorActions.ToggleLineComment": "Ctrl+/",
+    "EditorActions.ToggleBlockComment": "Ctrl+Shift+/"
+}

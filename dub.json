@@ -4,7 +4,16 @@
 	],
 	"copyright": "Copyright �® 2023, D5n9sMatrix",
 	"dependencies": {
-		"dlangide": "~>0.8.17"
+		"dcd": "~>0.15.2",
+		"dcd:common": "~>0.15.2",
+		"dcd:dsymbol": "~>0.15.2",
+		"dlangide": "~>0.8.17",
+		"dlangui": "~>0.10.2",
+		"dsymbol": "~>0.14.1",
+		"emsi_containers": "~>0.9.0",
+		"ldap": "~>0.4.0",
+		"libdparse": "~>0.22.0",
+		"msgpack-d": "~>1.0.4"
 	},
 	"description": "editor server dlang kit with perl6",
 	"license": "MIT",
