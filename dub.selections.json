@@ -6,17 +6,21 @@
 		"dcd": "0.9.13",
 		"derelict-ft": "2.0.0-beta.5",
 		"derelict-gl3": "2.0.0-beta.8",
+		"derelict-pq": "4.0.0",
 		"derelict-sdl2": "3.0.0-beta.8",
 		"derelict-util": "3.0.0-beta.2",
 		"dlangide": "0.8.17",
 		"dlangui": "0.9.182",
+		"dpq2": "1.1.5",
 		"dsfml": "2.1.1",
 		"dsymbol": "0.4.8",
 		"emsi_containers": "0.8.1",
 		"ldap": "0.4.0",
 		"libdparse": "0.9.10",
+		"money": "3.0.2",
 		"msgpack-d": "1.0.4",
 		"stdx-allocator": "2.77.5",
+		"vibe-d": "0.9.6",
 		"x11": "1.0.21"
 	}
 }
