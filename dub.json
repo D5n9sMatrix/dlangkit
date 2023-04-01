@@ -10,6 +10,7 @@
 		"dcd:dsymbol": "~>0.15.2",
 		"dlangide": "~>0.8.17",
 		"dlangui": "~>0.10.2",
+		"dpq2": "~>1.1.5",
 		"dsymbol": "~>0.14.1",
 		"emsi_containers": "~>0.9.0",
 		"ldap": "~>0.4.0",
