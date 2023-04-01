@@ -4,6 +4,7 @@
 	],
 	"copyright": "Copyright �® 2023, D5n9sMatrix",
 	"dependencies": {
+		"btrfs": "~>0.0.18",
 		"dcd": "~>0.15.2",
 		"dcd:common": "~>0.15.2",
 		"dcd:dsymbol": "~>0.15.2",
