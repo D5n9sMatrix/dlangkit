@@ -148,3 +148,19 @@ The William Lowell Putnam Mathematical Competition, known to many as the World�
 The competition awards scholarships and cash prizes to the top individual scorers and the top teams. The top five individual scorers are designated as Putnam Fellows and receive a scholarship of up to $12,000 plus tuition at Harvard University (Putnam Fellow Prize Fellowship). The next highest ranking individuals receive cash prizes ranging from $250 to $2,500. The top 100 individual scorers have their names mentioned in the American Mathematical Monthly (alphabetically ordered within rank), and the names and addresses of the top 500 contestants are mailed to all participating institutions. The top teams receive cash prizes ranging from $5,000 to $25,000 for their departments of mathematics. A team’s score is the sum of the scores of its three team members.
 
 The competition aims to stimulate interest in mathematics among college students and to recognize their mathematical talent and achievement. It also provides an opportunity for students to challenge themselves and to interact with other students who share their passion for mathematics. The competition has grown to be the leading university-level mathematics examination in the world and attracts thousands of participants every year.
+
+> Definition 1.3 Row-Echelon Form (Reduced)
+
+A matrix is said to be in row-echelon form (and will be called a row-echelon matrix) if it
+satisfies the following three conditions:
+1. All zero rows (consisting entirely of zeros) are at the bottom.
+2. The first nonzero entry from the left in each nonzero row is a 1, called the leading 1 for that
+   row.
+3. Each leading 1 is to the right of all leading 1s in the rows above it.
+   A row-echelon matrix is said to be in reduced row-echelon form (and will be called a reduced
+   row-echelon matrix) if, in addition, it satisfies the following condition:
+4. Each leading 1 is the only nonzero entry in its column.
+   The row-echelon matrices have a “staircase” form, as indicated by the following example (the asterisks
+   indicate arbitrary numbers).
+
+![staircase](./img/Screenshot%20from%202023-04-01%2017-24-24.png)

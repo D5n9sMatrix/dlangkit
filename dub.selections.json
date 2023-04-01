@@ -1,6 +1,8 @@
 {
 	"fileVersion": 1,
 	"versions": {
+		"ae": "0.0.3236",
+		"btrfs": "0.0.18",
 		"dcd": "0.9.13",
 		"derelict-ft": "2.0.0-beta.5",
 		"derelict-gl3": "2.0.0-beta.8",
