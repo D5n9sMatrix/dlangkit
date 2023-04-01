@@ -4,6 +4,7 @@
 	],
 	"copyright": "Copyright �® 2023, D5n9sMatrix",
 	"dependencies": {
+		"handy-httpd": "~>6.0.0",
 		"ldap": "~>0.4.0",
 		"vibe-core": "~>2.2.0"
 	},
